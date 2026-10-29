@@ -1,0 +1,13 @@
+# Datos de entrada y resultados generados
+data/
+resultados/
+
+# Entornos y archivos temporales de Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Metadatos del sistema operativo y editor
+.DS_Store
+.vscode/
